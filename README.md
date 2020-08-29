@@ -113,7 +113,7 @@ Después de crear los documentos, debe crear una colección en Watson Discovery 
 
 > Consejo: el paso de cargar documentos en Watson Discovery puede tardar unos minutos y, a veces, fallar. Se recomienda que solo se cargue un documento a la vez para asegurarse de que no haya fallas.
 
-A continuación encuentra las preguntas que ICBC Argentina usaria en la entrevista y algunos ejemplos de respuestas posibles para cada una. Usted debe usar su propio conocimiento o conocimiento que encuentre en fuentes de información para entrenar el modelo de relevancia con **posibles frases de respuestas** (_queries_) que los candidatos puedan usar contra los documentos que usted ha cargado en la colección de Watson Discovery. 
+A continuación encuentra las preguntas que ICBC Argentina usa en la entrevista y algunos ejemplos de respuestas posibles para cada una. Usted debe usar su propio conocimiento o conocimiento que encuentre en fuentes de información para entrenar el modelo de relevancia con **posibles frases de respuestas** (_queries_) que los candidatos puedan usar contra los documentos que usted ha cargado en la colección de Watson Discovery. 
 
 
 <div align="center">
