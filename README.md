@@ -96,7 +96,7 @@ Durante el desafío, enfrentará dos problemas comunes para un científico de da
 - https://experto.dev/patron-de-diseno-strategy-en-java/
 
 
-A partir de estas URLs, pedimos que cree documentos JSON con las siguientes claves y valores:
+A partir de estas URLs (_exclusivamente_), pedimos que cree documentos JSON con las siguientes claves y valores:
 
 ```json
 {
