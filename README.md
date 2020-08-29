@@ -51,8 +51,12 @@ La idea principal del reto es entrenar una colección con documentos acerca de A
 
 [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery) es un motor de análisis de contenido y búsqueda cognitiva a las aplicaciones para identificar patrones, tendencias e información útil que impulse una mejor toma de decisiones. Unifica de forma segura datos estructurados y no estructurados con contenido enriquecido y utiliza un lenguaje de consulta simplificado para eliminar la necesidad de filtrar manualmente los resultados.
 
-<< El video tutorial se subirá pronto>>
 
+<div align="center">
+    <a href="https://youtu.be/rNlGm26k95o">
+       <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-5-ES.png" alt='video'>
+    </a>
+</div>
 
 
 ## 4. Desarrollando la solución
