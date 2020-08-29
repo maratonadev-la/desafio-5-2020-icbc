@@ -1,0 +1,5 @@
+{
+    "title":"¿Qué es Angular y para qué sirve?",
+    "url":"https://www.qualitydevs.com/2019/09/16/que-es-angular-y-para-que-sirve/",
+    "body":"Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC (Modelo-Vista-Controlador) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones. En una web SPA aunque la velocidad de carga puede resultar un poco lenta la primera vez que se abre, navegar después es totalmente instantáneo, ya que se ha cargado toda la página de golpe. Solamente es una ruta la que se tiene que enviar el servidor, y Angular lo que hace ‘por debajo’ es cambiar la vista al navegar para que dé la apariencia de una web normal, pero de forma más dinámica. Entre otras ventajas, este framework es modular y escalable adaptándose a nuestras necesidades y al estar basado en el estándar de componentes web, y con un conjunto de interfaz de programación de aplicaciones (API) permite crear nuevas etiquetas HTML personalizadas que pueden reutilizarse. El lenguaje principal"
+}
